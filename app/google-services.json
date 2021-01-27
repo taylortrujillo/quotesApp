@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530545631898",
+    "project_id": "motivationalquotes-35c32",
+    "storage_bucket": "motivationalquotes-35c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530545631898:android:733d4b1b38e4f451deb523",
+        "android_client_info": {
+          "package_name": "com.example.truji.exampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530545631898-45rfe2pagoqh96ossgp6gmg7p07u0bgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.truji.exampleapp",
+            "certificate_hash": "c2d824f8f641642aee7718624b37d67942d034a0"
+          }
+        },
+        {
+          "client_id": "530545631898-9qe4kpc39b3lqden3thrjsmjcnj8hhbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IdsofaacZa8REIvGf4EpWa6a_h64spA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530545631898-9qe4kpc39b3lqden3thrjsmjcnj8hhbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
